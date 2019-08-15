@@ -1,2 +1,5 @@
 <?php
-    phpInfo();
+     echo " hellow word, tmj meu querido";
+
+
+?>
